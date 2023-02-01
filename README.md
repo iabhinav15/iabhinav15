@@ -4,11 +4,11 @@
     src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?size=338&ext=jpg"
     alt="coding">
 
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on **React.js.**
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Web Development.**
+- 👯 I’m looking to collaborate on **React.js Development.**
 
 - 🤝 I’m looking for help with **My Projects.**
 
