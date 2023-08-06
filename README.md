@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh.😃</h1>
-<h3 align="center">A passionate React.js Developer.</h3>
+<h3 align="center">A passionate Developer.</h3>
 <img align="right" width="400" 
     src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?size=338&ext=jpg"
     alt="coding">
