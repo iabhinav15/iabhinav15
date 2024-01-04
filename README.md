@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh.😃</h1>
-<h3 align="center">A passionate Developer.</h3>
+<h3 align="center">A passionate Web Developer.</h3>
 <img align="right" width="400" 
     src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?size=338&ext=jpg"
     alt="coding">
 
-- 🔭 I’m currently working on **React.js.**
+- 🔭 I’m currently working on **MERN Stack.**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **React.js Development.**
+- 👯 I’m looking to collaborate on **Next.js Development.**
 
 - 🤝 I’m looking for help with **My Projects.**
 
