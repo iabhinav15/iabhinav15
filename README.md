@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabhinav15&label=Profile%20views&color=0e75b6&style=flat" alt="iabhinav15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iabhinav15" alt="iabhinav15" /></a> </p>
+<img align="right" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?size=338&ext=jpg" alt="coding">
+
 
 <p align="left"> <a href="https://twitter.com/iabhinav15" target="blank"><img src="https://img.shields.io/twitter/follow/iabhinav15?logo=twitter&style=for-the-badge" alt="iabhinav15" /></a> </p>
 
