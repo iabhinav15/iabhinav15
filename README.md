@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D-9pZdQNvgsF4T_SYEciY8PSg2RXFPOi/view](https://drive.google.com/file/d/1D-9pZdQNvgsF4T_SYEciY8PSg2RXFPOi/view)
 
-- ⚡ Fun fact **I read child magazine.**
+- ⚡ Fun fact **I read child magazines and play chess.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
