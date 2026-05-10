@@ -16,25 +16,22 @@
 
 - 🤝 I’m looking for help with **my projects.**
 
-- 👨‍💻 All of my projects are available at [https://abhinavsinghportfolio.netlify.app](https://abhinavsinghportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://abhinavsinghportfolio.netlify.app](https://abhinavsinghportfolio.netlify.app).
 
-- 📝 I regularly write articles on [https://medium.com/@iabhinav15](https://medium.com/@iabhinav15)
+- 📝 I regularly write articles on [Hashnode](https://dev-abhinav.hashnode.dev).
 
 - 💬 Ask me about **anything.**
 
-- 📫 How to reach me **Use Linkedin.**
+- 📫 Reach me through [Linkedin](https://www.linkedin.com/in/iabhinav15/).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D-9pZdQNvgsF4T_SYEciY8PSg2RXFPOi/view](https://drive.google.com/file/d/1D-9pZdQNvgsF4T_SYEciY8PSg2RXFPOi/view)
+- 📄 Know about my experiences through github.
 
 - ⚡ Fun fact **I read child magazines and play chess.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iabhinav15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iabhinav15" height="30" width="40" /></a>
+<a href="https://twitter.com/iabhinav15" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/500p/89/00/x-logo-icon-vector-51648900.jpg" alt="iabhinav15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iabhinav15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iabhinav15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23516548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23516548" height="30" width="40" /></a>
 <a href="https://medium.com/@iabhinav15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iabhinav15" height="30" width="40" /></a>
